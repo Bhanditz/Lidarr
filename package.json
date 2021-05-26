@@ -33,7 +33,7 @@
     "classnames": "2.2.5",
     "clipboard": "1.7.1",
     "create-react-class": "^15.6.2",
-    "css-loader": "0.28.9",
+    "css-loader": "1.0.0",
     "del": "3.0.0",
     "element-class": "0.2.2",
     "esformatter": "0.10.0",
