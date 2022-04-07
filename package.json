@@ -111,8 +111,8 @@
     "stylelint-order": "0.8.0",
     "tar.gz": "1.0.7",
     "url-loader": "0.6.2",
-    "webpack": "3.10.0",
-    "webpack-stream": "^4.0.0"
+    "webpack": "4.0.0",
+    "webpack-stream": "^7.0.0"
   },
   "main": "index.js"
 }
