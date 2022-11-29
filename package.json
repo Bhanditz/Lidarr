@@ -61,7 +61,7 @@
     "history": "4.7.2",
     "jdu": "1.0.0",
     "jquery": "3.3.1",
-    "loader-utils": "^1.1.0",
+    "loader-utils": "^1.4.2",
     "lodash": "4.17.4",
     "mobile-detect": "1.4.1",
     "moment": "2.20.1",
